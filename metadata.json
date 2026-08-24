@@ -1,0 +1,6 @@
+{
+  "name": "ClassroomLock",
+  "description": "School device management SaaS for interactive SmartVision boards and Windows 11 classroom PCs with policy-driven locked classroom mode and administrator recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
